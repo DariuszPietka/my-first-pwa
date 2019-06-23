@@ -1,0 +1,78 @@
+{
+  "configVersion": 1,
+  "timestamp": 1561278930431,
+  "index": "/my-first-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/my-first-pwa/favicon.ico",
+        "/my-first-pwa/index.html",
+        "/my-first-pwa/main-es2015.40522f5648d96dcf5494.js",
+        "/my-first-pwa/main-es5.caa97e05d407786dee71.js",
+        "/my-first-pwa/polyfills-es2015.27661dfa98f6332c27dc.js",
+        "/my-first-pwa/polyfills-es5.943113ac054b16d954ae.js",
+        "/my-first-pwa/runtime-es2015.858f8dd898b75fe86926.js",
+        "/my-first-pwa/runtime-es5.741402d1d47331ce975c.js",
+        "/my-first-pwa/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/my-first-pwa/assets/icons/icon-128x128.png",
+        "/my-first-pwa/assets/icons/icon-144x144.png",
+        "/my-first-pwa/assets/icons/icon-152x152.png",
+        "/my-first-pwa/assets/icons/icon-192x192.png",
+        "/my-first-pwa/assets/icons/icon-384x384.png",
+        "/my-first-pwa/assets/icons/icon-512x512.png",
+        "/my-first-pwa/assets/icons/icon-72x72.png",
+        "/my-first-pwa/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/my-first-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/my-first-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/my-first-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/my-first-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/my-first-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/my-first-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/my-first-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/my-first-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/my-first-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/my-first-pwa/index.html": "71e71b843c2c42f7f1a8ee73622c93817f1194a7",
+    "/my-first-pwa/main-es2015.40522f5648d96dcf5494.js": "a576e5586fc61e5ebf1613fbc7d03fc0b68aa590",
+    "/my-first-pwa/main-es5.caa97e05d407786dee71.js": "9f5544604fe5437a9be17ff2a6d3ca729518c026",
+    "/my-first-pwa/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
+    "/my-first-pwa/polyfills-es5.943113ac054b16d954ae.js": "042d7744ef82a64c73310f1db253736731a03950",
+    "/my-first-pwa/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/my-first-pwa/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/my-first-pwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
